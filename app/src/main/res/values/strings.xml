@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FABTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="social_like">推 #number#</string>
+    <string name="social_hate">噓 #number#</string>
+    <string name="social_comment">留言 #number# </string>
+</resources>
